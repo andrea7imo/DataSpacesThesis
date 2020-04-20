@@ -1,4 +1,4 @@
-# DataSpacesThesis
+# Data Spaces Thesis
 
 Dataset: http://archive.ics.uci.edu/ml/datasets/Forest+Fires
 
