@@ -3,6 +3,7 @@
 Dataset: http://archive.ics.uci.edu/ml/datasets/Forest+Fires
 
 Index of work:
+
 1 The Forest Fires Data Set
 
 2 Data Analysis
