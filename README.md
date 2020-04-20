@@ -4,11 +4,11 @@ Dataset: http://archive.ics.uci.edu/ml/datasets/Forest+Fires
 
 Index of work:
 
-1 The Forest Fires Data Set
+- 1 The Forest Fires Data Set
 
-2 Data Analysis
+- 2 Data Analysis
 
-  2.1 Content of the dataset
+  - 2.1 Content of the dataset
   
   2.2 The meaning of features
   
